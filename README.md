@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Git Stays
+
+- Git Stats
+
 ![cjh-19's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh-19&show_icons=true&theme=tokyonight)
+
 - BOJ
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gns8812)](https://solved.ac/gns8812)
