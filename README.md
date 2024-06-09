@@ -16,7 +16,7 @@
 
 ### Activities
 - [SAMSUNG DreamClass](https://www.dreamclass.org/index.do) | Weekdays Camp Math Mentor | 2019.09 - 2019.12
-- [SAMSUNG DreamClass](https://www.dreamclass.org/index.do) | Winter Camp Math & SW Mentor | 2020.01
+- [SAMSUNG DreamClass](https://www.dreamclass.org/index.do) | Winter Camp Math Mentor & SW Assistant Mentor | 2020.01
 - [LikeLion](https://www.likelion.net/) | 멋쟁이사자처럼 Kwangwoon University 12th BackEnd | 2024.03 - Current
 
 <br />
