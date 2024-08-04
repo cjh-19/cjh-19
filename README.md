@@ -5,7 +5,7 @@
 <br />
 
 ### Education
--  [Kwangwoon University](https://www.kw.ac.kr/ko/) | 2019.03 - Current
+-  [Kwangwoon University](https://www.kw.ac.kr/ko/) | Software Major (Computer Science and Engineering Program) | 2019.03 - Current
 
 <br />
 
