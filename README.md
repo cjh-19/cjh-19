@@ -32,13 +32,6 @@
 
 <br />
 
-<!--
-백준 스텟
-<p>
-  <a href="https://solved.ac/gns8812"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gns8812" alt="Solved.ac Profile"></a>
-</p>
---!>
-
 <br />
 <br />
 <br />
