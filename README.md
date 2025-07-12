@@ -7,6 +7,7 @@
 ### Education
 -  [Kwangwoon University](https://www.kw.ac.kr/ko/) | School of Software | 2019.03 - 2025.02
 -  [LG CNS AM Inspire Camp](https://lgcnscamp.kr/) | 1st | 2024.12 - 2025.06
+-  [SSAFY](https://www.ssafy.com/) | 14th | 2025.07 -
 
 <br />
 
