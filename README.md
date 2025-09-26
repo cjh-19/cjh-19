@@ -87,4 +87,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=cjh-19&show_icons=true&theme=tokyonight" alt="cjh-19's GitHub stats"><br>
+  <a href="https://solved.ac/profile/gns8812">
+    <img src="https://mazassumnida.wtf/api/generate_badge?boj=gns8812" alt="gns8812's Solved.ac stats">
+</a><br>
 </p>
