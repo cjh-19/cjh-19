@@ -13,7 +13,8 @@
 
 ### Working Experience
 - [NAVER Cloud](https://www.navercloudcorp.com/#) | LLM Data Internship | 2023.11 - 2024.02
-- [S-Core](https://s-core.co.kr/) | Software Developer | 2026.01 -
+- [S-Core](https://s-core.co.kr/) | Software Developer | 2026.01 - 2026.06
+- [NH Investment & Securities](https://www.nhsec.com/) | Software Developer | 2026.06 - 
 
 <br />
 
